@@ -38,29 +38,43 @@ To answer our research questions, we combined data from Urban Education Data API
 
 Because the bullying allegation data was organized by state, our group created a heat map using each state’s coordinates and Python’s gmaps module. Interestingly, this heat map showed that even though states like California and Texas have large populations––and thus conceivably may have higher allegation counts––much of the U.S’s bullying allegations in 2015 came from the Northeast.
 
- 
+
+![Screen Shot 2020-08-31 at 10 09 27 PM](https://user-images.githubusercontent.com/55970064/95263181-0529b980-07f3-11eb-88a1-3ffbbcb6213f.jpeg)
+
 
 
 
 ### Prevalence of Bullying in Schools
 In 2015, bullying is most prevalent in middle schools, and followed by high schools. Among the three types of bullying, verbal bullying is the most prevalent for all school levels comparing with physical bullying and social bullying. 
+
+
+![types_by_level_ordered](https://user-images.githubusercontent.com/55970064/95263273-25597880-07f3-11eb-976a-3981c7069166.png)
+
  
 Bullying reported in 2015 showed a bell-curved distribution for different school sizes – where medium-sized schools have more bullying reported comparing with small-sized and large-sized schools. 
 
 
+![types_by_size_ordered](https://user-images.githubusercontent.com/55970064/95263312-30aca400-07f3-11eb-829b-77483759a096.png)
+
 
 
 ### Bullying and Academic Performance
-To better understand the relationship between bullying and academic performance, we wanted to first group assessment scores and graduation rates by state to match the bullying allegation data. In each case, the indicators with rates “Less Than 50% (LT50%)” displayed positive correlations when juxtaposed against the bullying allegation data. This correlation was especially strong (r2 = .67) with the assessment score data. 
+To better understand the relationship between bullying and academic performance, we wanted to first group assessment scores and graduation rates by state to match the bullying allegation data. In each case, the indicators with rates “Less Than 50% (LT50%)” displayed positive correlations when juxtaposed against the bullying allegation data. This correlation was especially strong (r = .67) with the assessment score data. 
 
  
  
+![image](https://user-images.githubusercontent.com/55970064/95263372-4d48dc00-07f3-11eb-994f-865fb71bcfee.png)
+
+ 
+![image](https://user-images.githubusercontent.com/55970064/95263407-59349e00-07f3-11eb-8fe8-d4b5803c64c5.png)
+
 
 
 Another goal of ours was to see if we could find a correlation between the high school dropout rate and instances of alleged bullying.  Unfortunately, we were only able to compile reliable data for two years, 2013 and 2015.  Surprisingly, as bullying counts increased over this time period, instances of high school dropouts decreased.
 
 
- 
+ ![image](https://user-images.githubusercontent.com/55970064/95263461-6fdaf500-07f3-11eb-998e-704169cc95d8.png)
+
 
 
 
@@ -68,6 +82,10 @@ Another goal of ours was to see if we could find a correlation between the high 
 Our final research question asked us to explore which demographic factors (socioeconomic status, age, ethnicity, etc) may lead to higher instances of bullying in our sample. Using the 2015 Census results, we were able to study the effects of poverty rate, per capita income, and various racial/ethnic identities on bullying allegations. For all of the aforementioned factors, the correlations were weak and even somewhat contradictory. An example of this can be seen in the following figures, where bullying allegations increased slightly with increasing poverty rate but also increased with per capita income. 
 
   
+  ![image](https://user-images.githubusercontent.com/55970064/95263560-9305a480-07f3-11eb-8eff-8d51cbfeaefa.png)
+
+
+![image](https://user-images.githubusercontent.com/55970064/95263581-9bf67600-07f3-11eb-88fb-df500dc80543.png)
 
 
 

@@ -81,11 +81,13 @@ Another goal of ours was to see if we could find a correlation between the high 
 ### Demographic Factors
 Our final research question asked us to explore which demographic factors (socioeconomic status, age, ethnicity, etc) may lead to higher instances of bullying in our sample. Using the 2015 Census results, we were able to study the effects of poverty rate, per capita income, and various racial/ethnic identities on bullying allegations. For all of the aforementioned factors, the correlations were weak and even somewhat contradictory. An example of this can be seen in the following figures, where bullying allegations increased slightly with increasing poverty rate but also increased with per capita income. 
 
-  
-  ![image](https://user-images.githubusercontent.com/55970064/95263560-9305a480-07f3-11eb-8eff-8d51cbfeaefa.png)
+
+ <img width="529" alt="provertyrate" src="https://user-images.githubusercontent.com/55970064/95263971-39ea4080-07f4-11eb-8192-22c9311f1e80.png">
 
 
-![image](https://user-images.githubusercontent.com/55970064/95263581-9bf67600-07f3-11eb-88fb-df500dc80543.png)
+
+<img width="529" alt="percapitalincome" src="https://user-images.githubusercontent.com/55970064/95263749-eaa41000-07f3-11eb-90c6-1c89b415d1ed.png">)
+
 
 
 
